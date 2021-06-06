@@ -1,5 +1,7 @@
 # ZeonFullChain
-Zeon full chain  for fast sync 
+Zeon full chain  for fast sync  
+
+"blocks": 1337260  : date : 06/06/2021, 01:47
 
 On windows download ZeonFullChain.zip in ZEON folder :
 
